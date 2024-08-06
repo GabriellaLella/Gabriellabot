@@ -31,24 +31,7 @@ let prova = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@br
 let info = `
 ══════ •⊰✦⊱• ══════
 𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐫𝐞
-✧ cd
-✧ termux-setup-storage
-✧ apt update 
-✧ pkg upgrade 
-✧ pkg install git -y
-✧ pkg install nodejs -y
-✧ pkg install ffmpeg -y
-✧ pkg install imagemagick -y
-✧ pkg install yarn
-✧ git clone https://github.com/MoonContentCreator/BixbyBot-Md.git
-✧ cd BixbyBot-Md 
-✧ yarn install 
-✧ npm install
-✧ npm update
-✧ npm start
-
-𝐒𝐜𝐚𝐫𝐢𝐜𝐚𝐫𝐞 𝐥𝐚 𝐜𝐚𝐫𝐭𝐞𝐥𝐥𝐚 𝐝𝐞𝐥 𝐛𝐨𝐭 📱
-✧ cd /sdcard && rm -rf BixbyBot-Md && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git && cd BixbyBot-Md && npm start
+Eh volevi,GUARDA CHE FACCIA NON SE LO ASPETTAVA
 ══════ •⊰✦⊱• ══════
 `.trim() 
 conn.reply(m.chat, info,prova, m, {
